@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\bin\Debug\Vaccine Regestration.exe.config
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\bin\Debug\Vaccine Regestration.exe
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\bin\Debug\Vaccine Regestration.pdb
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\obj\Debug\Vaccine Regestration.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\obj\Debug\Vaccine_Regestration.Registration.resources
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\obj\Debug\Vaccine_Regestration.Properties.Resources.resources
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\obj\Debug\Vaccine Regestration.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\obj\Debug\Vaccine Regestration.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\obj\Debug\Vaccine Regestration.exe
+C:\Users\Julian\source\repos\Vaccine Regestration\Vaccine Regestration\obj\Debug\Vaccine Regestration.pdb
